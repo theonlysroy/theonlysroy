@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Swagatam</h1>
 <h3 align="center">Learnign to code | Web Development and Networking enthusiast.</h3>
 
-- 🔭 I’m currently working on [sroy_journal](https://github.com/theonlysroy/sroy_journal)
+- 🔭 I’m currently working on -
 
-- 🌱 I’m currently learning **Angular, Django and DevOps**
+- 🌱 I’m currently learning **React & Express**
 
 - 📫 How to reach me **swagatam2002roy@gmail.com**
 
