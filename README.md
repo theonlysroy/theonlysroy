@@ -13,14 +13,6 @@
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theonlysroy&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="theonlysroy" />
-</p>
-
-
 ### ⚡️ Connect with me
 
 <p align="left">
