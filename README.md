@@ -1,31 +1,27 @@
 <h1 align="center">Hi 👋, I'm Swagatam Roy</h1>
 <p align="center">
-  <strong>Full Stack Developer • Networking Enthusiast</strong>
+    Full Stack Developer &nbsp;/&nbsp; Networking Enthusiast
+</p>
+<br>
+<p>Building web applications, exploring Linux and networking, experimenting with homelabs, and ricing my Linux setup along the way.</p>
+
+<br>
+<p align="center">
+  <a href="https://x.com/theonlysroy"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.linkedin.com/in/swagatam-roy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-### 🚀 Tech Stack
+## Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-0a0a0a?style=for-the-badge&logo=express&logoColor=FFFFFF&link=https%3A%2F%2Fexpressjs.com%2F" />
-  <img src="https://img.shields.io/badge/mongodb-%23023430?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/tailwindcss-ffffff?style=for-the-badge&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+**Languages & frontend**
 
-### ⚡️ Connect with me
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS">
 
-<p align="left">
-  <a href="https://x.com/theonlysroy" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/swagatam-roy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/theonlysroy" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+**Backend & tooling**
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=gol&logoColor=white" alt="Golang">
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
