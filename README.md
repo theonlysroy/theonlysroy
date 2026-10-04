@@ -8,8 +8,8 @@
 <br>
 
 <p align="left">
-  <a href="https://x.com/theonlysroy"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://www.linkedin.com/in/swagatam-roy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/theonlysroy"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>&nbsp;
+  <a href="https://instagram.com/theonlysroy"><img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;
 </p>
 
 ## Stack
